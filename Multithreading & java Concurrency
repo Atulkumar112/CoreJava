@@ -1,0 +1,2 @@
+Thread:- Thread is the light-weight process, which has its own files and stacks and can access the shared data from other threads in the same process.
+Multithreads:- 
