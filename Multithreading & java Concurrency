@@ -1,2 +1,14 @@
-Thread:- Thread is the light-weight process, which has its own files and stacks and can access the shared data from other threads in the same process.
-Multithreads:- 
+--->>>>> just go through the below link to learn thread and multithread 
+https://www.guru99.com/multithreading-java.html
+
+Thread:- Thread is the light-weight sub-process, which has its own files and stacks and can access the shared data from other threads in the same process.
+It's the smallest unit of processing.
+Multithreads:- Multithreading is a process of excecuting multiple threads simultaneously to maximum utilization of CPU. Multithreaded applications execute two or 
+more threads run concurrently. Hence, it is also known as Concurrency in Java.
+--> Multithreading and multiprocessing both are used to achieve multitasking.
+--> First of all we use multithreaidng and then multiprocessing.
+--> Threads use a shared memory areas.
+--> Threads takes less time than process.
+--> Threads is light-weight process whereas process is heavy weight process.
+--> multithreading is mostly used in games and annimation.
+
