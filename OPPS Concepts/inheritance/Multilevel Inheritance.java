@@ -1,5 +1,5 @@
 /*
-Maltilevel inheritance is a inheritance when a two or more child class inherited to the one parent class.
+Maltilevel inheritance is a inheritance when a  child class inherited to the parent class and again parent class inherited to the grand parent class.
 */
 
 
